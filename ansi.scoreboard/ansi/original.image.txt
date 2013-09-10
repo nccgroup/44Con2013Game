@@ -1,0 +1,4 @@
+Original template we used was based on the 'Sauce Setup'
+screen in SyncDraw.
+
+http://syncdraw.bbsdev.net/
