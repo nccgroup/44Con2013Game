@@ -1,0 +1,15 @@
+1) Resolution - /boot/config.txt
+
+In order to turn down the resolution we're going to run at 480p 
+as that is approx 87 columns (VGA is 72 when I tested it).
+
+hdmi_group=1
+hdmi_mode=2
+
+2) Screen time out - /etc/kbd/config
+
+Now we need to stop the screen going blank. This is done by setting 
+these options:
+
+BLANK_TIME=0
+POWERDOWN_TIME=0
