@@ -33,8 +33,7 @@ except:
 	sys.stderr.write("[!] couldn't open " + sys.argv[2] + "\n")
 
 # Write it
-while True:	
-	for line in content:
-		sys.stdout.write(line)
+for line in content:
+	sys.stdout.write(line)
 		
 
