@@ -71,11 +71,14 @@ Putting It All Together
 Inactions
 -------------
 People play on a touchscreen (we used an Acer T232HL)
+
 ![ScreenShot](https://raw.github.com/nccgroup/44Con2013Game/master/photos/playing.jpg)
 
 Crowds watch on a VGA split version of the screen with the scoreboard underneath
+
 ![ScreenShot](https://raw.github.com/nccgroup/44Con2013Game/master/photos/watching.jpg)
 
 The Raspberry Pi ANSi scoreboard
+
 ![ScreenShot](https://raw.github.com/nccgroup/44Con2013Game/master/photos/scoreboard.jpg)
 
