@@ -1,7 +1,7 @@
 44Con2013Game
 =============
 
-The NCC Group Game from 44CON 2013
+The NCC Group Game from 44CON 2013 - a knowledge multiple choice game for cinferences
 
 Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
@@ -58,7 +58,7 @@ Questions
 -------------
 We haven't released all the questions we wrote. Instead we've left two sample questions in. The application logic looks for questions at the desired level, if it doesn't find any (levels go from 0 to 11) then it uses a question from the previous level.
 
-3rd Party Dependancies 
+3rd Party Dependencies
 -------------
 For the on-screen touch screen keyboard we use:
 * http://wpfkb.codeplex.com/
