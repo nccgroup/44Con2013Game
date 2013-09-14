@@ -68,7 +68,7 @@ Putting It All Together
 ![ScreenShot](https://raw.github.com/nccgroup/44Con2013Game/master/design/design.png)
 
 
-Inactions
+In action
 -------------
 People play on a touchscreen monitor (we used an Acer T232HL)
 
