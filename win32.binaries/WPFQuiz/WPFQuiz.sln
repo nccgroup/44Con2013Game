@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFQuiz", "WPFQuiz\WPFQuiz.csproj", "{E22D3D84-1AD8-443F-8460-5D0740BB5E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionEditor", "QuestionEditor\QuestionEditor.csproj", "{0FEFA198-E091-4192-829E-ECF8CFA178EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreWebServer", "ScoreWebServer\ScoreWebServer.csproj", "{8855B135-0B4F-470E-94C0-CAF09481073A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22D3D84-1AD8-443F-8460-5D0740BB5E9C}.Debug|x86.ActiveCfg = Debug|x86
+		{E22D3D84-1AD8-443F-8460-5D0740BB5E9C}.Debug|x86.Build.0 = Debug|x86
+		{E22D3D84-1AD8-443F-8460-5D0740BB5E9C}.Release|x86.ActiveCfg = Release|x86
+		{E22D3D84-1AD8-443F-8460-5D0740BB5E9C}.Release|x86.Build.0 = Release|x86
+		{0FEFA198-E091-4192-829E-ECF8CFA178EB}.Debug|x86.ActiveCfg = Debug|x86
+		{0FEFA198-E091-4192-829E-ECF8CFA178EB}.Debug|x86.Build.0 = Debug|x86
+		{0FEFA198-E091-4192-829E-ECF8CFA178EB}.Release|x86.ActiveCfg = Release|x86
+		{0FEFA198-E091-4192-829E-ECF8CFA178EB}.Release|x86.Build.0 = Release|x86
+		{8855B135-0B4F-470E-94C0-CAF09481073A}.Debug|x86.ActiveCfg = Debug|x86
+		{8855B135-0B4F-470E-94C0-CAF09481073A}.Debug|x86.Build.0 = Debug|x86
+		{8855B135-0B4F-470E-94C0-CAF09481073A}.Release|x86.ActiveCfg = Release|x86
+		{8855B135-0B4F-470E-94C0-CAF09481073A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

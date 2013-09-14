@@ -1,0 +1,12 @@
+<Question>
+  <QuestionDesc>X-XSS-Protection protects against what</QuestionDesc>
+  <QuestionText><![CDATA[The HTTP header X-XSS-Protection protects against what in modern web browsers?]]></QuestionText>
+  <Time>17</Time>
+  <Level>5</Level>
+  <Bonus>false</Bonus>
+  <AnswerA>Cross-Site Sliding</AnswerA>
+  <AnswerB>Cross-Site Snarfing</AnswerB>
+  <AnswerC>Cross-Site Shimming</AnswerC>
+  <AnswerD>Cross-Site Scripting</AnswerD>
+  <Correct>D</Correct>
+</Question>

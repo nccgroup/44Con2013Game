@@ -1,0 +1,12 @@
+﻿<Question>
+	<QuestionDesc></QuestionDesc>
+	<QuestionText></QuestionText>
+	<Time></Time>
+	<Level></Time>
+	<Bonus></Bonus>
+	<AnswerA></AnswerA>
+	<AnswerB></AnswerB>
+	<AnswerC></AnswerC>
+	<AnswerD></AnswerD>
+	<Correct></Correct>
+</Question>

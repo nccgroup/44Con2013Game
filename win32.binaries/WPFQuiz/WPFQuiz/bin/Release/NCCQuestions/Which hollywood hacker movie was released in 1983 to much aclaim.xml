@@ -1,0 +1,12 @@
+<Question>
+  <QuestionDesc>Which hollywood hacker movie was released in 1983 to much aclaim</QuestionDesc>
+  <QuestionText><![CDATA[Which hollywood hacker movie was released in 1983 to much acclaim?]]></QuestionText>
+  <Time>20</Time>
+  <Level>0</Level>
+  <Bonus>false</Bonus>
+  <AnswerA>Hackers</AnswerA>
+  <AnswerB>War Games</AnswerB>
+  <AnswerC>Sword Fish</AnswerC>
+  <AnswerD>Sneakers</AnswerD>
+  <Correct>B</Correct>
+</Question>
