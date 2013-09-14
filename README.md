@@ -67,6 +67,10 @@ Putting It All Together
 -------------
 ![ScreenShot](https://raw.github.com/nccgroup/44Con2013Game/master/design/design.png)
 
+The equipment we used included:
+* VGA Splitter - http://www.maplin.co.uk/svga-splitter-2-and-4-port-36773
+* ACER T232HL Touch Screen Monitor - http://us.acer.com/ac/en/US/content/model/UM.VT2AA.001
+* Raspberry Pi - http://www.raspberrypi.org/
 
 In action
 -------------
