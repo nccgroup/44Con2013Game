@@ -1,7 +1,7 @@
 44Con2013Game
 =============
 
-The NCC Group Game from 44CON 2013 - a knowledge multiple choice game for cinferences
+The NCC Group Game from 44CON 2013 - a knowledge based multiple choice game for conferences
 
 Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
@@ -70,7 +70,7 @@ Putting It All Together
 
 Inactions
 -------------
-People play on a touchscreen (we used an Acer T232HL)
+People play on a touchscreen monitor (we used an Acer T232HL)
 
 ![ScreenShot](https://raw.github.com/nccgroup/44Con2013Game/master/photos/playing.jpg)
 
